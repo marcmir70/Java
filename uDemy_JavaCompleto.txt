@@ -1,0 +1,15 @@
+Módulo 15 - aulas 131 a 141 : tratamento de exceções
+Módulo 14 - aulas 119 a 130 : herança e polimorfismo
+Módulo 13 - aulas 110 a 118 : enumerações, composição
+Módulo 12 (bônus) - aulas 101 a 109 : Git e Github
+Módulo 11 - aulas 98 a 100 : Date e Calendar
+Módulo 10 - aulas 83 a 97 : memória, arrays, listas
+Módulo 9 - aulas 72 a 82 : construtores, palavra this, sobrecarga, encapsulamento
+Módulo 8 - aulas 60 a 71 : POO
+Módulo 7 - aulas 54 a 59 : restrições, convenções, bitwise, funções String, comentários, funções
+Módulo 6 - aulas 40 a 53 : estruturas repetitivas
+Módulo 5 - aulas 29 a 39 : estrutura condicional
+Módulo 4 - aulas 17 a 28 : estrutura sequencial
+Módulo 3 - 
+Módulo 2 - 
+Módulo 1 - 
